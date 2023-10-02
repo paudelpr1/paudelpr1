@@ -1,7 +1,7 @@
 <div id = "header" align = "center">
   <img src = "https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" width = "500" style = "padding: 0px"/>
   <hr>
-  <p> I am a Senior Computer Science undergraduate at the University of Louisiana Monroe. </p>
+  <p> I am a Senior Computer Science undergraduate at the University of Louisiana Monroe. I enjoy learning and traveling. </p>
 </div>
 
 ## My Experiences:
