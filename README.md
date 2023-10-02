@@ -11,7 +11,7 @@
     </li>
     <li> Software Developer at IBM Louisiana Economic Development Grant (formerly <a href="https://www.louisianasbdc.org/">LSBDC</a>) 
     </li>
-    <li>Techincal Intern at <a href="https://dxc.com/us/en">DXC Technology</a> (June 2022 - August 2023)</li>
+    <li>Techincal Intern at <a href="https://dxc.com/us/en">DXC Technology</a> </li>
     <li> Student Worker at <a href = "https://www.ulm.edu/it/helpdesk/">ULM IT Helpdesk</a></li>
   
 </div>
